@@ -1,0 +1,6 @@
+scikit-learn
+matplotlib
+opencv-python
+numpy~=2.3.3
+tensorflow~=2.20.0
+tf-keras~=2.20.1
